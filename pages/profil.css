@@ -1,0 +1,254 @@
+.profil .profil {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 800;
+  font-size: 20px;
+  color: #E8CCC7;
+}
+.profil .container-4 {
+  border-radius: 4px;
+  background: #7D8BAE;
+  position: relative;
+  margin-bottom: 73px;
+  padding: 50px 25px 75px 25px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.profil .rasyad-gajah-manik {
+  margin: 0 25px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 800;
+  font-size: 20px;
+  color: #E5857B;
+}
+.profil .sodiptaaa {
+  margin: 0 27px 73px 27px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 15px;
+  color: #F8E9D6;
+}
+.profil .kontribusi {
+  margin-right: 13px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 15px;
+  color: #F1B2B2;
+}
+.profil .thanks-to {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 18px;
+  color: #F8E9D6;
+}
+.profil .frame-12 {
+  margin-bottom: 17px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.profil .rectangle-1 {
+  border-radius: 50px;
+  background: url('../assets/images/rectangle_11.jpeg') 50% / cover no-repeat;
+  margin-right: 11px;
+  width: 100px;
+  height: 100px;
+}
+.profil .berman-limbong {
+  margin-bottom: 70px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 800;
+  font-size: 20px;
+  color: #E5857B;
+}
+.profil .container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.profil .berrrrrrr {
+  position: absolute;
+  top: 30px;
+  right: 97.9px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 15px;
+  color: #E8CCC7;
+}
+.profil .device-support {
+  position: absolute;
+  right: 45.7px;
+  bottom: 24px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 15px;
+  color: #E8CCC7;
+}
+.profil .frame-13 {
+  position: relative;
+  margin-bottom: 17px;
+  display: flex;
+  box-sizing: border-box;
+}
+.profil .rectangle-11 {
+  border-radius: 50px;
+  background: url('../assets/images/rectangle_1.jpeg') 50% / cover no-repeat;
+  margin-right: 11px;
+  width: 100px;
+  height: 100px;
+}
+.profil .mdava {
+  margin-bottom: 70px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 800;
+  font-size: 20px;
+  color: #E5857B;
+}
+.profil .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.profil .dapaaaaaa {
+  position: absolute;
+  top: 30px;
+  right: 5.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 15px;
+  color: #E8CCC7;
+}
+.profil .idea-support {
+  position: absolute;
+  right: 0px;
+  bottom: 24px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 15px;
+  color: #E8CCC7;
+}
+.profil .frame-14 {
+  position: relative;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.profil .group-27 {
+  margin: 0 25px 279px 25px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.profil .rectangle-31 {
+  border-radius: 5px;
+  background: #FFFFFF;
+  align-self: center;
+  width: 134px;
+  height: 5px;
+}
+.profil .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.profil .vector {
+  width: 16px;
+  height: 16.3px;
+}
+.profil .group-8 {
+  margin: 0.7px 0 1px 0;
+  display: flex;
+  width: 16px;
+  height: 16.3px;
+  box-sizing: border-box;
+}
+.profil .group {
+  width: 18px;
+  height: 18px;
+}
+.profil .group-10 {
+  display: flex;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.profil .vector-3 {
+  width: 12px;
+  height: 15px;
+}
+.profil .group-11 {
+  margin: 1px 0 2px 0;
+  display: flex;
+  width: 12px;
+  height: 15px;
+  box-sizing: border-box;
+}
+.profil .container-2 {
+  margin: 0 19.5px 11px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 200px;
+  box-sizing: border-box;
+}
+.profil .rectangle-30 {
+  border-radius: 5px;
+  background: #E5857B;
+  margin-left: 169.5px;
+  width: 50px;
+  height: 5px;
+}
+.profil .nav-home {
+  opacity: 0.8;
+  background: rgba(217, 217, 217, 0.8);
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 23px 0 27px 0;
+  box-sizing: border-box;
+}
+.profil .rectangle-12 {
+  border-radius: 50px;
+  background: url('../assets/images/rectangle_13.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 30px;
+  top: 116px;
+  width: 100px;
+  height: 100px;
+}
+.profil-1 {
+  background: #45496A;
+  display: flex;
+  padding: 0 5px 10px 5px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,104 @@
+.materi-1 .epback {
+  margin-top: 3px;
+  width: 24px;
+  height: 24px;
+}
+.materi-1 .materi-1 {
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: 1px;
+  color: #E8CCC7;
+}
+.materi-1 .group-31 {
+  background: #45496A;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 31px 0 32px 30px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.materi-1 .bab-i {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 15px;
+  color: #F1B2B2;
+}
+.materi-1 .sitologi {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 18px;
+  color: #F8E9D6;
+}
+.materi-1 .frame-12 {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.materi-1 .jenis-sel-ada-dua-jenis-sel-utama-berdasarkan-kompleksitas-struktur-dan-organisasi-yaitu-sel-prokariotik-dan-sel-eukariotik-sel-prokariotik-sel-prokariotik-merupakan-bentuk-sel-paling-sederhana-dan-ditemukan-pada-organisme-bersel-tunggal-seperti-bakteri-dan-archaea-mereka-tidak-memiliki-inti-sel-yang-terpisah-oleh-membran-materi-genetik-mereka-berbentuk-sirkuler-dan-terletak-di-nukleoid-sel-prokariotik-biasanya-tidak-memiliki-organel-sel-yang-kompleks-seperti-sel-eukariotik-meskipun-sederhana-sel-prokariotik-memiliki-peran-vital-dalam-proses-biokimia-di-alam-dan-dapat-bertahan-dalam-berbagai-kondisi-lingkungan-sel-eukariotik-lebih-kompleks-dan-ditemukan-pada-tumbuhan-hewan-jamur-dan-protista-mereka-memiliki-inti-sel-yang-jelas-di-mana-materi-genetik-terkandung-dalam-nukleus-yang-dikelilingi-oleh-membran-sel-eukariotik-memiliki-beragam-organel-sel-yang-mengatur-berbagai-fungsi-seluler-termasuk-mitokondriatempat-produksi-energi-ribosomtempat-sintesis-protein-dan-retikulum-endoplasmatempat-transportasi-intraseluler {
+  margin-bottom: 48.2px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 15px;
+  color: #000000;
+}
+.jenis-sel-ada-dua-jenis-sel-utama-berdasarkan-kompleksitas-struktur-dan-organisasi-yaitu-sel-prokariotik-dan-sel-eukariotik-sel-prokariotik-sel-prokariotik-merupakan-bentuk-sel-paling-sederhana-dan-ditemukan-pada-organisme-bersel-tunggal-seperti-bakteri-dan-archaea-mereka-tidak-memiliki-inti-sel-yang-terpisah-oleh-membran-materi-genetik-mereka-berbentuk-sirkuler-dan-terletak-di-nukleoid-sel-prokariotik-biasanya-tidak-memiliki-organel-sel-yang-kompleks-seperti-sel-eukariotik-meskipun-sederhana-sel-prokariotik-memiliki-peran-vital-dalam-proses-biokimia-di-alam-dan-dapat-bertahan-dalam-berbagai-kondisi-lingkungan-sel-eukariotik-lebih-kompleks-dan-ditemukan-pada-tumbuhan-hewan-jamur-dan-protista-mereka-memiliki-inti-sel-yang-jelas-di-mana-materi-genetik-terkandung-dalam-nukleus-yang-dikelilingi-oleh-membran-sel-eukariotik-memiliki-beragam-organel-sel-yang-mengatur-berbagai-fungsi-seluler-termasuk-mitokondriatempat-produksi-energi-ribosomtempat-sintesis-protein-dan-retikulum-endoplasmatempat-transportasi-intraseluler {
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+}
+.materi-1 .vector-1 {
+  width: 41.7px;
+  height: 41.7px;
+}
+.materi-1 .mdiarrow-left-thin-circle-outline {
+  display: flex;
+  width: 41.7px;
+  height: 41.7px;
+  box-sizing: border-box;
+}
+.materi-1 .vector {
+  width: 41.7px;
+  height: 41.7px;
+}
+.materi-1 .mdiarrow-right-thin-circle-outline {
+  display: flex;
+  width: 41.7px;
+  height: 41.7px;
+  box-sizing: border-box;
+}
+.materi-1 .container {
+  margin-left: 7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  width: 149.7px;
+  box-sizing: border-box;
+}
+.materi-1 .container-1 {
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 37px 24.2px 30px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.materi {
+  background: rgba(69, 73, 106, 0.85);
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}

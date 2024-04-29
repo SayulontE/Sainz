@@ -1,0 +1,8 @@
+.mdiarrow-left-thin-circle-outline .vector {
+  width: 20px;
+  height: 20px;
+}
+.mdiarrow-left-thin-circle-outline {
+  display: flex;
+  box-sizing: border-box;
+}

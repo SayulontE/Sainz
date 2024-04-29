@@ -1,0 +1,104 @@
+.materi .epback {
+  margin-top: 3px;
+  width: 24px;
+  height: 24px;
+}
+.materi .materi-1 {
+  overflow-wrap: break-word;
+  font-family: 'Manrope';
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: 1px;
+  color: #E8CCC7;
+}
+.materi .group-31 {
+  background: #45496A;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 31px 0 32px 30px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.materi .bab-i {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 15px;
+  color: #F1B2B2;
+}
+.materi .sitologi {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 18px;
+  color: #F8E9D6;
+}
+.materi .frame-12 {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.materi .struktur-sel-struktur-sel-mencakup-bagian-bagian-yang-memainkan-peran-penting-dalam-menjalankan-fungsi-fungsi-seluler-setiap-sel-biasanya-memiliki-membran-sel-merupakan-batas-luar-sel-yang-mengontrol-aliran-zat-zat-masuk-dan-keluar-sel-sitoplasma-cairan-kental-yang-mengisi-ruang-di-antara-membran-sel-dan-inti-sel-inti-sel-nukleus-mengandung-materi-genetik-dan-mengontrol-aktivitas-sel-organel-sel-struktur-kecil-di-dalam-sel-yang-memiliki-fungsi-khusus-seperti-mitokondria-ribosom-retikulum-endoplasma-dan-lain-lain {
+  margin-bottom: 370.2px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 15px;
+  color: #000000;
+}
+.struktur-sel-struktur-sel-mencakup-bagian-bagian-yang-memainkan-peran-penting-dalam-menjalankan-fungsi-fungsi-seluler-setiap-sel-biasanya-memiliki-membran-sel-merupakan-batas-luar-sel-yang-mengontrol-aliran-zat-zat-masuk-dan-keluar-sel-sitoplasma-cairan-kental-yang-mengisi-ruang-di-antara-membran-sel-dan-inti-sel-inti-sel-nukleus-mengandung-materi-genetik-dan-mengontrol-aktivitas-sel-organel-sel-struktur-kecil-di-dalam-sel-yang-memiliki-fungsi-khusus-seperti-mitokondria-ribosom-retikulum-endoplasma-dan-lain-lain {
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+}
+.materi .vector-1 {
+  width: 41.7px;
+  height: 41.7px;
+}
+.materi .mdiarrow-left-thin-circle-outline {
+  display: flex;
+  width: 41.7px;
+  height: 41.7px;
+  box-sizing: border-box;
+}
+.materi .vector {
+  width: 41.7px;
+  height: 41.7px;
+}
+.materi .mdiarrow-right-thin-circle-outline {
+  display: flex;
+  width: 41.7px;
+  height: 41.7px;
+  box-sizing: border-box;
+}
+.materi .container-1 {
+  margin-left: 2.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  width: 149.7px;
+  box-sizing: border-box;
+}
+.materi .container {
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 32.3px 24.2px 30px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.materi {
+  background: rgba(69, 73, 106, 0.85);
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
